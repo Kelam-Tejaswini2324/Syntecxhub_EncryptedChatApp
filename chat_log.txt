@@ -5,3 +5,10 @@ Client : how are you
 [15:52:05] teju: hello hii whatsapp
 [15:56:24] teju: this is my project
 [15:56:35] teju: i encrypted my project
+[16:06:14] Kelam Tejaswini: 
+[16:11:59] kelam Tejaswini: hii hello
+[16:12:12] kelam Tejaswini: this is my encrypted chat app
+[16:12:51] teju: hii hello
+[16:13:01] teju: today this is tast week 2
+[16:13:16] teju: encrypted from client to server
+[16:13:46] teju: the msg had received by server
