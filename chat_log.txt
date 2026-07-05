@@ -1,0 +1,7 @@
+Client : hello
+Client : how are you
+('127.0.0.1', 52510) : hello from client 2
+('127.0.0.1', 52508) : hello from client 1
+[15:52:05] teju: hello hii whatsapp
+[15:56:24] teju: this is my project
+[15:56:35] teju: i encrypted my project
